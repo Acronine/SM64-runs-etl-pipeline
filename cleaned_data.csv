@@ -1,0 +1,501 @@
+place,submitted_date,real_time_seconds,player_name,player_country,platform,verified
+1,11/18/2022,5855,Weegee,United States,N64,Yes
+2,09/23/2023,5859,Karin,Japan,N64,Yes
+3,08/18/2023,5862,Liam,United States,N64,No
+3,09/15/2023,5862,marlene,Unspecified,N64,Yes
+5,03/01/2022,5870,cheese,Spain,N64,Yes
+6,03/22/2023,5874,Parsee02,Japan,N64,Yes
+6,09/17/2023,5874,puncayshun,United States,N64,Yes
+8,05/10/2023,5887,simply,United States,N64,Yes
+9,04/10/2021,5901,batora,Japan,N64,Yes
+10,01/28/2022,5912,ikori_o,Japan,N64,No
+11,08/09/2023,5933,Kally,Unspecified,N64,Yes
+12,01/30/2021,5934,hokorobi,Japan,N64,Yes
+12,06/26/2021,5934,Taggo,Sweden,N64,Yes
+14,09/24/2021,5940,Paracusia,Australia,N64,Yes
+15,05/22/2023,5965,Smau,Finland,N64,Yes
+16,03/10/2021,5968,Nebula,Australia,EMU,Yes
+17,04/15/2023,5971,Dowsky,United States,N64,Yes
+18,08/01/2021,5979,Dezanig,Brazil,N64,Yes
+19,07/12/2023,5990,BeastAssassin67,United States,N64,Yes
+20,02/12/2022,5991,Sigotu,Poland,EMU,Yes
+20,06/23/2023,5991,Taki,Canada,N64,Yes
+22,10/23/2022,5997,Terji,Faroe Islands,N64,Yes
+23,11/14/2021,6003,nindiddeh,United States,N64,Yes
+24,04/13/2023,6005,KANNO,Unspecified,N64,Yes
+25,05/17/2021,6012,Gainai,Germany,N64,Yes
+26,04/05/2021,6021,RockChalk19,United States,N64,Yes
+26,08/31/2022,6021,BlueBob,Canada,N64,Yes
+28,09/17/2023,6024,Dekudude,England,N64,Yes
+29,02/01/2020,6025,Dwhatever,Germany,N64,Yes
+29,11/28/2021,6025,kagami,Japan,N64,Yes
+31,09/18/2023,6032,Raisn,Unspecified,EMU,Yes
+32,10/30/2022,6040,Aleph64,Germany,VC,Yes
+33,11/12/2020,6043,Fafel,Japan,N64,Yes
+34,08/20/2023,6046,GothicLogic,United Kingdom,N64,Yes
+35,08/03/2023,6049,Zhilkan,Spain,EMU,Yes
+36,05/23/2023,6059,KobrahCJ,United States,N64,Yes
+37,08/08/2023,6074,taciturn,United States,EMU,Yes
+38,06/08/2023,6097,kryptic80,United States,N64,Yes
+39,10/04/2021,6101,Tabascoth,Austria,N64,Yes
+40,03/09/2021,6103,Goldrush,Japan,N64,Yes
+41,07/26/2023,6114,Finnii602,Germany,VC,Yes
+42,01/11/2023,6115,Kyman,Canada,N64,Yes
+43,02/21/2023,6122,Afrodafro,Norway,N64,Yes
+44,Unspecified,6129,nero_x2,Japan,N64,Yes
+45,08/11/2018,6130,groovy31,Finland,N64,Yes
+46,02/16/2023,6132,sorichi,Japan,N64,Yes
+47,05/04/2017,6133,GUTOA,Japan,N64,Yes
+48,04/27/2022,6134,badroenis,United States,N64,Yes
+49,07/30/2023,6139,Avatar,United States,N64,Yes
+50,02/12/2020,6143,Shans,Australia,EMU,No
+51,11/03/2018,6144,phantaxx,United States,N64,Yes
+51,04/22/2022,6144,ChipGroove,United States,N64,Yes
+53,10/22/2020,6146,akki,Japan,N64,Yes
+54,09/27/2022,6147,crazywhw,United States,N64,Yes
+55,12/07/2015,6148,toastrider91,Chad,N64,Yes
+56,04/10/2023,6152,jaquarium,United States,N64,Yes
+57,05/01/2023,6153,Blakeo2,England,N64,Yes
+57,06/14/2023,6153,saksdal,United States,N64,Yes
+59,03/20/2023,6159,EthanRTA,United States,N64,Yes
+60,05/12/2019,6162,V1RO,Canada,N64,Yes
+61,11/23/2021,6166,Heisenburger,United States,N64,Yes
+62,04/05/2023,6167,ringo792,United States,N64,Yes
+63,02/05/2022,6168,taylor3311,Japan,N64,Yes
+64,06/10/2023,6171,Leysauce,United States,N64,Yes
+65,07/09/2022,6172,Bluth,United States,N64,No
+66,08/18/2021,6173,chubby,Norway,N64,Yes
+67,04/29/2023,6175,mickyyyr,Australia,N64,Yes
+68,06/09/2023,6177,Soda,Unspecified,N64,Yes
+69,05/14/2023,6181,markinator99,United States,N64,Yes
+70,06/25/2023,6182,itsbeeve,United States,N64,Yes
+71,07/24/2023,6188,vitroncio,Brazil,N64,Yes
+72,01/02/2022,6189,Xx_Mario_xX,Japan,N64,Yes
+73,12/08/2021,6194,turara32767,Japan,N64,Yes
+74,09/22/2023,6195,ElDeve,Argentina,EMU,No
+75,01/13/2021,6196,Drogie,Switzerland,N64,Yes
+76,Unspecified,6202,siglemic,United States,VC,No
+77,02/22/2017,6203,Unspecified,Unspecified,N64,Yes
+78,07/03/2022,6204,Frost_Byte,United States,N64,Yes
+79,12/18/2020,6205,jane_dair,United States,N64,Yes
+80,02/23/2022,6208,tomkabs,Canada,N64,Yes
+81,03/17/2019,6210,Unspecified,Unspecified,N64,Yes
+81,08/08/2021,6210,darkdog47,United States,N64,Yes
+83,08/07/2019,6211,TriforceTK,United States,EMU,Yes
+84,08/31/2020,6212,Xoofey,United States,N64,Yes
+84,06/17/2022,6212,Falcon,Canada,N64,Yes
+86,Unspecified,6217,hyassin27,Canada,VC,Yes
+87,02/15/2023,6218,Chemus,Brazil,EMU,Yes
+88,01/28/2015,6227,Haliinen,Sweden,N64,Yes
+89,03/30/2023,6229,squimmie,United States,N64,Yes
+90,09/04/2021,6232,Widdit,United States,N64,Yes
+91,Unspecified,6233,CpKaka,Sweden,VC,Yes
+92,11/20/2022,6234,Wilko,Germany,N64,Yes
+93,09/14/2016,6235,Flippy_o,Denmark,N64,Yes
+94,12/19/2022,6236,Odme_,United States,VC,Yes
+95,01/07/2015,6240,Unspecified,Unspecified,N64,Yes
+96,03/13/2021,6248,Xein64,Germany,N64,Yes
+96,04/27/2023,6248,Gerbiez,Canada,N64,Yes
+98,09/14/2023,6249,dista,United States,N64,Yes
+99,01/02/2022,6253,Fuff,Canada,N64,Yes
+100,07/23/2021,6254,FailmanFlo,Germany,EMU,Yes
+101,03/09/2021,6255,Unspecified,Unspecified,N64,Yes
+102,11/29/2019,6256,JMill,United States,EMU,Yes
+103,06/11/2023,6262,Mauir,Chile,EMU,Yes
+104,05/04/2017,6269,Unspecified,Unspecified,N64,Yes
+104,07/10/2020,6269,bebopbandit,United States,N64,Yes
+106,09/18/2021,6283,Schnoz64,United States,N64,Yes
+106,04/25/2022,6283,PKT_Distinct,France,N64,Yes
+108,04/18/2015,6285,gohanie,Japan,N64,Yes
+108,05/20/2017,6285,Mitagi,Japan,N64,Yes
+110,03/01/2022,6288,JJsrl,United States,N64,Yes
+111,01/09/2023,6289,GoodGrieth,Unspecified,N64,Yes
+111,02/05/2023,6289,tanepota,Japan,N64,Yes
+113,Unspecified,6291,Unspecified,Unspecified,N64,Yes
+114,12/24/2014,6296,luke994,England,N64,No
+115,06/02/2022,6306,nidamario,Japan,N64,No
+116,02/04/2021,6309,Butterlord,Canada,N64,Yes
+117,11/17/2022,6310,FireGoesFast,Australia,VC,Yes
+118,08/27/2017,6317,Animazism,Wales,N64,Yes
+119,04/27/2017,6318,Alkobakknarko,Norway,N64,Yes
+120,07/28/2023,6320,HorrorDoesSpeedRuns,United States,N64,Yes
+121,05/26/2023,6321,CheesyLeech,United States,N64,No
+121,08/01/2023,6321,Fizz,United States,VC,Yes
+123,Unspecified,6327,Noizeeh,Sweden,N64,Yes
+124,09/01/2019,6328,protoman5,United States,N64,Yes
+125,12/11/2021,6329,dinkyslinky,Norway,N64,Yes
+126,01/10/2020,6331,m_vitor,Brazil,N64,Yes
+126,09/29/2020,6331,Darrow25,Québec,VC,Yes
+128,01/05/2023,6334,shikibi_hiiro,Japan,N64,Yes
+128,01/21/2023,6334,Seba54,Chile,EMU,Yes
+130,02/11/2023,6335,Geenix,United States,N64,Yes
+130,04/15/2023,6335,Drac,Brazil,N64,Yes
+132,09/22/2020,6337,SuperViperT302,United States,N64,Yes
+133,09/26/2021,6338,bromario28,United States,N64,Yes
+134,05/06/2019,6339,Biinny,England,N64,Yes
+135,06/26/2023,6346,SubmarineCpt,United States,EMU,Yes
+136,01/29/2023,6349,incha4416,Unspecified,N64,Yes
+136,08/15/2023,6349,packerzilla,United States,N64,Yes
+138,Unspecified,6352,Unspecified,Unspecified,N64,No
+139,10/30/2021,6356,latyy,United States,N64,Yes
+140,06/18/2023,6357,amsixx,Spain,EMU,Yes
+141,06/26/2019,6358,Beuca,United States,N64,Yes
+141,08/03/2023,6358,Yale,United States,N64,Yes
+143,08/22/2017,6359,Unspecified,Unspecified,N64,Yes
+144,11/30/2022,6360,Elva,Japan,N64,Yes
+145,04/12/2021,6367,Creator_Destroyer,United States,N64,Yes
+146,06/09/2017,6368,Gana64,Japan,N64,Yes
+146,03/13/2018,6368,arwyMilo,Canada,N64,No
+148,07/15/2022,6369,ZeusSM64,New Zealand,EMU,No
+149,07/18/2022,6376,ClintStevens,United States,N64,Yes
+150,07/12/2019,6377,joerandom,United States,EMU,Yes
+151,08/28/2017,6379,ZDeztroyerz,Unspecified,N64,Yes
+151,06/17/2023,6379,SolErikaB,Sweden,EMU,Yes
+153,06/03/2021,6380,OkamiBW,United States,VC,Yes
+154,01/20/2023,6384,Dezod,United States,N64,Yes
+155,03/20/2023,6386,Gravydos,United States,N64,Yes
+156,06/20/2022,6393,alaris,United States,N64,No
+157,06/11/2023,6399,ReallyBadDK,United States,N64,Yes
+158,08/01/2023,6400,oatslice,Australia,N64,Yes
+159,01/22/2018,6407,MrSpeedrun,Germany,N64,Yes
+160,07/31/2023,6409,Sabxander,Romania,EMU,Yes
+161,Unspecified,6411,pobo,United States,N64,Yes
+162,02/13/2023,6413,Apeduden,Norway,N64,Yes
+162,02/24/2023,6413,spener1122,Canada,N64,Yes
+164,01/12/2022,6414,Unknown1470,United States,EMU,Yes
+165,09/03/2020,6416,watapachi67,Japan,N64,Yes
+166,07/29/2020,6422,Fuzzyness,England,N64,Yes
+167,07/01/2016,6424,trevor107,Canada,N64,Yes
+167,02/28/2017,6424,Shy,Finland,N64,Yes
+169,06/01/2022,6427,egaSyeliR,United States,N64,Yes
+170,07/22/2022,6435,manxmud,United States,N64,Yes
+171,Unspecified,6436,Unspecified,Unspecified,N64,No
+172,02/27/2022,6446,Marco,France,N64,Yes
+173,04/08/2021,6447,peta,Japan,N64,Yes
+173,09/23/2023,6447,FleetingAzure,United States,N64,Yes
+175,08/10/2022,6451,Muimania,Germany,EMU,Yes
+176,12/27/2021,6460,popesquidward,United States,N64,Yes
+177,07/08/2023,6461,JDee,Canada,N64,Yes
+178,10/20/2021,6462,RianDiCielo,Panama,EMU,Yes
+179,08/31/2021,6463,ThatDrunkenDwarf,England,N64,Yes
+180,09/19/2018,6466,Unspecified,Unspecified,N64,Yes
+180,04/04/2019,6466,m0m0,Unspecified,N64,Yes
+180,06/07/2022,6466,Menstilo,Germany,EMU,Yes
+183,07/21/2023,6471,smc_,Scotland,N64,Yes
+184,Unspecified,6472,Toufool,United States,N64,Yes
+185,03/06/2022,6474,bev_prune_,Australia,N64,Yes
+186,03/19/2021,6478,Flixer,United States,N64,Yes
+186,06/26/2023,6478,mdsnoopy,Chile,N64,Yes
+188,05/29/2017,6481,hellool,United States,N64,Yes
+189,12/29/2021,6483,mercredi,Canada,N64,Yes
+190,01/20/2023,6484,pete,United States,N64,Yes
+190,05/16/2023,6484,happydude124,United States,EMU,Yes
+192,06/21/2023,6487,piegolds,Australia,EMU,Yes
+193,03/14/2017,6491,Custom,Canada,N64,Yes
+194,05/30/2022,6494,TwitchName,United States,N64,Yes
+195,06/13/2023,6495,BigCheese,United States,VC,Yes
+196,04/09/2018,6500,quiilucru,Unspecified,N64,Yes
+197,09/09/2015,6505,igreil,United States,N64,Yes
+197,07/27/2023,6505,AJLane,United States,N64,Yes
+199,02/22/2023,6508,NoNag,Germany,EMU,Yes
+200,08/01/2022,6509,Lucinovic,Netherlands,N64,Yes
+201,08/12/2023,6518,Rynnoo,United States,N64,Yes
+202,12/18/2021,6525,Majoog,South Korea,EMU,Yes
+202,02/25/2023,6525,Kaimatix,England,N64,Yes
+204,09/11/2022,6527,Tit0MEX_64,Mexico,EMU,Yes
+205,08/17/2023,6531,Roddy,Brazil,EMU,Yes
+206,Unspecified,6538,Unspecified,Unspecified,N64,No
+207,09/09/2023,6543,madware,Chile,N64,Yes
+208,Unspecified,6544,alextolio,Greece,VC,No
+209,10/19/2021,6551,thags15,United States,N64,Yes
+210,12/22/2019,6557,dumpdome64,United States,EMU,Yes
+211,05/17/2023,6563,Redmoss,United States,N64,Yes
+212,Unspecified,6566,Holahu,England,EMU,Yes
+213,Unspecified,6567,sicko,England,N64,No
+214,01/18/2023,6568,Avijobat,Mexico,VC,Yes
+215,11/22/2020,6572,SeanRaider,Canada,N64,Yes
+215,02/02/2023,6572,gamiru,Japan,N64,Yes
+217,07/08/2015,6573,Washeyy,Australia,N64,No
+217,07/31/2023,6573,PegiTheLoca,Germany,EMU,Yes
+219,12/24/2014,6574,SimpleFlips,United States,N64,Yes
+220,05/25/2016,6575,ohaithereman,United States,N64,Yes
+220,01/31/2017,6575,Jolteon92,England,N64,Yes
+222,08/07/2020,6580,Redd,United States,N64,Yes
+222,08/11/2023,6580,Sunnard,France,EMU,Yes
+224,Unspecified,6582,Unspecified,Unspecified,N64,Yes
+224,08/07/2019,6582,SoloQ,United States,EMU,Yes
+226,04/05/2017,6584,TylerSM74,Canada,N64,Yes
+226,01/23/2020,6584,CarlosDaMan,United States,N64,Yes
+226,08/31/2023,6584,52koney,Japan,N64,Yes
+229,06/30/2023,6585,PhoenixAUS,Australia,VC,Yes
+230,03/23/2018,6587,Unspecified,Unspecified,N64,Yes
+231,03/13/2017,6589,Unspecified,Unspecified,N64,Yes
+232,11/22/2017,6592,YarvishSaseko,Japan,N64,Yes
+233,05/26/2023,6594,JamesBod,Canada,N64,Yes
+234,07/01/2017,6595,kumasyatyou,Japan,N64,Yes
+235,05/07/2019,6596,Squirr3I,United States,N64,Yes
+236,06/22/2021,6597,NicV,United States,N64,Yes
+237,09/23/2015,6598,Unspecified,Unspecified,N64,No
+238,Unspecified,6599,Unspecified,Unspecified,N64,Yes
+238,Unspecified,6599,Rorotto,Japan,N64,Yes
+238,01/29/2019,6599,TheoryLocked,Austria,EMU,No
+238,05/03/2023,6599,Karyno,France,N64,Yes
+238,07/12/2023,6599,wermi,Poland,N64,Yes
+238,08/23/2023,6599,CapruSin,United States,EMU,Yes
+244,05/11/2020,6606,Marteeny,Japan,N64,Yes
+245,05/13/2020,6608,Vincertain,Québec,N64,Yes
+246,11/21/2017,6613,dazrin_,Canada,N64,Yes
+247,04/13/2020,6615,RetroRuns,England,N64,Yes
+248,05/02/2020,6618,Jebuskiller,Australia,N64,Yes
+249,07/24/2023,6620,Salemba,Austria,EMU,Yes
+250,05/13/2023,6624,Naraknight,United States,N64,Yes
+251,08/17/2021,6640,Zombie2,Canada,EMU,Yes
+252,06/11/2021,6641,collins_vg,United States,N64,Yes
+253,04/13/2023,6643,cookincat,United States,EMU,Yes
+254,09/11/2023,6644,Zaikenator,United States,N64,Yes
+255,12/12/2022,6662,Cysse,France,EMU,Yes
+256,02/05/2022,6664,CheZach,Canada,N64,Yes
+257,05/01/2017,6668,Dublin,United States,N64,Yes
+258,05/29/2022,6674,Lusion,United States,EMU,Yes
+259,05/09/2021,6675,RWBYSorry,England,EMU,Yes
+260,06/08/2023,6679,ariapath,Australia,EMU,Yes
+261,08/23/2017,6680,bounceyboy,United States,N64,Yes
+262,03/21/2023,6681,LowAppeal,United States,N64,Yes
+262,07/24/2023,6681,BenedictFleur123,Netherlands,EMU,Yes
+264,08/08/2017,6686,naji,Sri Lanka,N64,Yes
+265,09/02/2021,6691,WaterproofTeabag_,Australia,N64,Yes
+266,08/23/2015,6707,joeys64,Netherlands,VC,Yes
+267,07/30/2023,6712,SonicGordon6,United States,EMU,Yes
+268,03/06/2022,6713,clairdss,United States,VC,Yes
+269,04/14/2021,6715,Hakasay,United States,N64,Yes
+270,03/21/2017,6716,ClysmiC,Unspecified,N64,Yes
+271,05/18/2023,6717,Semaa,Bosnia and Herzegovina,EMU,No
+272,Unspecified,6732,Seanzy,United States,N64,No
+273,08/13/2022,6735,Luco,United States,VC,Yes
+274,01/12/2023,6740,ShaDowSPoweR,France,EMU,Yes
+275,05/01/2021,6743,maosfx,United States,VC,Yes
+275,08/28/2022,6743,r1cef4rmer,United States,EMU,Yes
+277,07/12/2015,6745,Vorago,England,EMU,Yes
+278,06/25/2023,6747,Nicolascs83,Spain,N64,Yes
+279,Unspecified,6757,Unspecified,Unspecified,VC,Yes
+280,06/03/2021,6758,Kyrette,United States,VC,Yes
+281,Unspecified,6760,Unspecified,Unspecified,N64,No
+282,01/23/2023,6761,Seceon,Chile,N64,Yes
+283,09/08/2023,6764,realblopez,United States,N64,Yes
+284,09/16/2016,6765,wilzo,United Kingdom,N64,Yes
+285,03/23/2018,6766,Unspecified,Unspecified,N64,Yes
+286,05/26/2021,6776,Captain_Kale_,United States,EMU,Yes
+287,03/29/2019,6778,SomeBro,United States,EMU,Yes
+288,03/23/2018,6780,marshmallow.,Japan,N64,Yes
+289,06/02/2022,6783,Bombs,United States,N64,Yes
+290,04/01/2021,6790,Moose,United States,N64,Yes
+291,06/17/2023,6791,jepega,Netherlands,N64,Yes
+292,04/01/2023,6798,scoagogo,Northern Ireland,EMU,Yes
+293,03/23/2015,6804,mitcho,Australia,N64,Yes
+294,06/01/2016,6805,360Chrism,Germany,VC,Yes
+295,05/01/2023,6808,Rayydex,Germany,EMU,Yes
+296,01/16/2015,6811,Audraxys,Canada,VC,Yes
+297,07/30/2023,6813,Itz_Me_Coreyyy,United States,N64,Yes
+298,Unspecified,6817,Gombill,United States,N64,Yes
+299,Unspecified,6818,datimeloss,Canada,EMU,Yes
+300,02/14/2023,6820,unpushplay,United States,N64,Yes
+301,10/09/2021,6826,kdogk,United States,EMU,Yes
+302,04/21/2016,6827,Haru様,Germany,N64,Yes
+303,02/29/2016,6828,JazzyChoi1991,England,N64,Yes
+303,11/22/2021,6828,LxqZach,Germany,N64,Yes
+305,07/18/2023,6835,Majora_AG,Norway,EMU,Yes
+306,04/18/2021,6837,Perna64,United States,N64,Yes
+307,06/27/2023,6844,RONC3NA,United States,N64,Yes
+308,07/17/2015,6849,Skaredogged97,Switzerland,EMU,Yes
+309,06/25/2022,6858,VonJim,Québec,N64,Yes
+310,Unspecified,6859,Unspecified,Unspecified,N64,No
+311,07/22/2023,6860,OdieB,Canada,N64,Yes
+312,10/23/2017,6862,SmashBrawler64,United States,N64,Yes
+313,03/25/2021,6868,Progji,Germany,N64,Yes
+314,08/11/2022,6872,Bernhard,Germany,N64,Yes
+315,Unspecified,6875,Unspecified,Unspecified,N64,No
+316,05/06/2023,6876,ZUMMI,Italy,EMU,Yes
+317,12/23/2022,6878,Galaxtic,Sweden,EMU,Yes
+317,06/25/2023,6878,Midbro_,United States,VC,Yes
+319,05/10/2023,6882,D3m0nf4ng,Germany,EMU,Yes
+320,Unspecified,6886,Unspecified,Unspecified,N64,Yes
+321,10/21/2021,6891,Thomkar,Norway,EMU,Yes
+322,06/25/2016,6896,Unspecified,Unspecified,VC,Yes
+323,03/20/2016,6900,Unspecified,Unspecified,N64,No
+323,04/06/2018,6900,disrespectless,Germany,N64,Yes
+325,03/28/2023,6901,Rodillo,Spain,VC,Yes
+326,11/26/2022,6906,Luisito,Mexico,VC,Yes
+326,06/10/2023,6906,Expreli,United States,VC,Yes
+328,Unspecified,6908,Unspecified,Unspecified,EMU,No
+329,Unspecified,6919,Lluuccuuss,England,N64,Yes
+330,09/29/2019,6924,Galax,Switzerland,EMU,Yes
+331,06/27/2023,6929,moltres93,United States,N64,Yes
+332,03/26/2023,6931,Zinsch,Denmark,EMU,Yes
+333,Unspecified,6934,moodehh,United Kingdom,N64,No
+334,03/01/2021,6935,Heyzeus,United States,N64,Yes
+335,Unspecified,6938,TheDarkmanWs,Sweden,N64,No
+336,Unspecified,6946,Xiah,Japan,N64,No
+337,02/23/2021,6947,Toadfan5,United States,N64,Yes
+338,06/14/2023,6951,Mennismonk,England,N64,Yes
+339,06/04/2022,6958,zach,United States,N64,Yes
+340,05/18/2017,6960,goodtime07,United States,N64,Yes
+341,06/03/2023,6962,Phoenix64,United States,VC,Yes
+342,07/07/2022,6975,SodiumChlorideIC,Austria,EMU,Yes
+342,03/29/2023,6975,zekeSSB,United States,N64,Yes
+344,05/14/2021,6977,fireblazethem,United States,EMU,Yes
+345,07/15/2020,6980,MrJimmysteel25,United States,N64,Yes
+346,06/28/2023,6985,HappyZpanners,Norway,N64,Yes
+347,05/19/2015,6986,race_out,Canada,N64,Yes
+348,05/01/2021,6987,zubat05,Ecuador,EMU,Yes
+349,Unspecified,6990,Blasant,Germany,EMU,Yes
+350,07/01/2022,6992,JuiceACD,United States,EMU,Yes
+351,07/01/2021,6996,drimys,United States,N64,Yes
+352,12/04/2021,7003,Mapiz,Italy,N64,Yes
+353,03/23/2023,7013,RisingPhoenix64,Slovakia,EMU,Yes
+354,11/04/2021,7017,Susano130,Japan,N64,Yes
+355,09/15/2023,7025,EmiBella,United States,N64,Yes
+356,11/27/2022,7026,MrDasho,Ecuador,EMU,Yes
+357,06/25/2016,7029,dj0nk,United States,EMU,Yes
+358,07/12/2020,7032,MarvJungs,Germany,EMU,Yes
+359,05/28/2017,7036,mashSRL,Germany,N64,Yes
+359,03/30/2022,7036,xInf3rn0,United States,EMU,Yes
+361,Unspecified,7039,esi,United States,EMU,No
+362,Unspecified,7047,Unspecified,Unspecified,N64,No
+362,06/02/2023,7047,Darkman_,France,EMU,Yes
+364,04/05/2022,7049,ded_lej,North Korea,N64,Yes
+365,07/28/2023,7053,Edgar3EEE,United States,N64,Yes
+366,07/30/2023,7054,fazerlazer80,United States,N64,Yes
+367,Unspecified,7056,Unspecified,Unspecified,N64,Yes
+368,11/04/2022,7057,ti_83,United States,N64,Yes
+369,09/23/2015,7063,Hafus,United States,N64,Yes
+369,01/20/2022,7063,DTunester,United States,EMU,Yes
+371,07/30/2023,7064,hotdwgboy,United States,EMU,Yes
+372,Unspecified,7066,Unspecified,Unspecified,N64,Yes
+373,10/26/2018,7069,Yoshi_Zilla,United States,VC,Yes
+374,01/13/2023,7071,Derek,United States,EMU,Yes
+375,06/09/2023,7075,MrFroggy,United States,EMU,Yes
+376,11/22/2020,7076,MrMeanMoustache,Netherlands,N64,Yes
+377,07/30/2022,7077,Speedrun,United States,EMU,Yes
+378,06/18/2022,7079,Poke,United States,EMU,Yes
+379,05/10/2021,7083,Talon2461,England,VC,Yes
+380,02/14/2023,7084,Illudude,Sweden,N64,Yes
+381,Unspecified,7092,Snowman,United States,N64,Yes
+381,01/30/2023,7092,KingJ0444,Canada,EMU,Yes
+383,07/01/2021,7093,Marshall,Marshall Islands,N64,Yes
+384,04/26/2023,7097,Amahumahaba,United States,N64,Yes
+385,Unspecified,7098,caivs,United States,N64,Yes
+386,Unspecified,7099,NyZ,Japan,N64,No
+387,06/19/2023,7101,Nikkeri,Finland,EMU,Yes
+388,01/11/2023,7102,JaVillain,United States,N64,Yes
+389,07/03/2021,7106,adelyn64,United States,N64,Yes
+390,02/04/2023,7110,FallGuysSexMod,Scotland,EMU,Yes
+391,02/22/2022,7111,sevenyoshi,United States,N64,Yes
+392,Unspecified,7113,ParadoxKarl,Esperanto,VC,No
+393,01/11/2022,7116,BlueX2,Germany,EMU,Yes
+394,03/27/2023,7117,Electrand,Unspecified,EMU,Yes
+395,05/21/2020,7121,TerraBoop,United States,N64,Yes
+396,07/13/2023,7123,Keubab,France,N64,Yes
+397,10/05/2022,7124,hector,Mexico,N64,Yes
+397,07/10/2023,7124,boomeraang,Unspecified,N64,Yes
+399,07/15/2022,7125,haruto701,Japan,N64,Yes
+400,07/28/2022,7128,Johnny3Oak,United States,N64,Yes
+401,10/08/2021,7129,sigalig,United States,N64,Yes
+401,05/24/2022,7129,zGamuT,United States,EMU,Yes
+403,Unspecified,7131,Unspecified,Unspecified,EMU,Yes
+403,11/16/2021,7131,Pingu16,Italy,EMU,Yes
+405,05/15/2023,7135,AndrewAJT,United States,VC,Yes
+406,09/18/2015,7136,Mese,Japan,N64,No
+407,07/28/2023,7138,octave_6,United States,EMU,Yes
+408,06/01/2022,7139,Suigi,Canada,N64,Yes
+409,03/12/2019,7140,IR,Canada,N64,Yes
+410,Unspecified,7145,Unspecified,Unspecified,EMU,Yes
+411,06/25/2016,7146,Unspecified,Unspecified,EMU,Yes
+412,Unspecified,7147,Unspecified,Unspecified,N64,Yes
+413,04/13/2022,7151,RedSlim777,France,EMU,Yes
+414,09/23/2015,7153,JustinDT,Québec,N64,Yes
+415,08/28/2023,7154,Niniste,France,EMU,Yes
+416,07/19/2023,7156,Famin,United States,EMU,Yes
+417,12/02/2021,7159,Frozeno,Australia,VC,Yes
+417,Unspecified,7159,5upamayne,Lebanon,EMU,No
+419,05/13/2019,7164,Tomtendo,England,N64,Yes
+420,03/01/2020,7165,YobunTeme,Japan,N64,Yes
+420,05/09/2020,7165,Ivan,United States,N64,Yes
+422,04/11/2021,7166,game_complete,Uganda,N64,Yes
+423,08/23/2015,7167,senn,Germany,EMU,Yes
+424,07/01/2016,7168,Unspecified,Unspecified,VC,Yes
+425,07/30/2023,7170,MeepJeep,Germany,N64,Yes
+426,03/02/2021,7172,Tabbyztorm,Pakistan,EMU,Yes
+427,04/28/2022,7175,Divine,Austria,N64,Yes
+428,01/26/2021,7179,Smurfy,Canada,N64,Yes
+429,02/01/2021,7181,chomsky,United States,N64,Yes
+430,05/17/2020,7182,Seiozi,United States,N64,Yes
+431,11/26/2021,7183,tayyip,Unspecified,EMU,Yes
+432,03/19/2017,7188,Leonostic,United States,EMU,Yes
+432,12/16/2021,7188,AndySandford,Norway,EMU,Yes
+434,Unspecified,7190,Unspecified,Unspecified,N64,Yes
+435,04/04/2023,7192,RJ7k,United States,N64,Yes
+436,07/31/2021,7194,lackattack,United States,N64,Yes
+437,Unspecified,7199,Unspecified,Unspecified,N64,No
+437,07/20/2022,7199,Dorious,Australia,N64,Yes
+437,05/17/2023,7199,Groove_Heaven,United States,N64,Yes
+437,Unspecified,7199,Unspecified,Unspecified,N64,No
+441,01/06/2022,7206,tobithd,Austria,VC,Yes
+442,05/27/2023,7217,N8rBeans,United States,N64,Yes
+443,12/12/2022,7231,JayBeanz,United States,N64,Yes
+444,Unspecified,7233,Unspecified,Unspecified,EMU,Yes
+445,02/06/2022,7234,Kaug,Japan,VC,Yes
+446,02/07/2023,7240,Gloggekawa,Germany,VC,Yes
+447,07/01/2023,7255,Castle,Canada,VC,Yes
+448,Unspecified,7259,Unspecified,Unspecified,N64,No
+449,07/29/2022,7260,Sunk,United States,EMU,Yes
+450,08/01/2023,7267,sanj,Canada,EMU,Yes
+451,08/30/2023,7273,Joanbros,France,EMU,Yes
+452,06/13/2023,7275,zg53,United States,N64,Yes
+453,05/26/2022,7277,Flygonman,United States,VC,Yes
+454,12/30/2020,7278,runner_cam,United States,N64,Yes
+455,04/14/2020,7286,Ratchetx7,United States,N64,Yes
+456,09/08/2022,7291,druz,United States,EMU,Yes
+457,06/22/2016,7299,SteveMassey,United States,N64,Yes
+458,03/25/2021,7301,pierrenoelle,Germany,N64,Yes
+459,10/03/2018,7302,Crabshack,Albania,N64,Yes
+460,07/21/2023,7304,LiamPlayZelda,United States,VC,Yes
+461,08/03/2018,7305,Sovlo,France,N64,Yes
+462,02/20/2022,7306,Mister_H,France,EMU,Yes
+463,05/31/2023,7310,Erthide,Québec,VC,Yes
+464,Unspecified,7317,Unspecified,Unspecified,EMU,Yes
+465,06/04/2021,7318,Breadghost,United States,VC,Yes
+466,01/27/2021,7319,Baybito64,France,EMU,Yes
+467,06/07/2023,7322,SirPlsStop,United States,EMU,Yes
+468,07/12/2023,7325,lostinspeedruns,Italy,EMU,No
+469,06/26/2022,7326,Sailo,Germany,VC,Yes
+470,07/28/2020,7328,Jalapiñecone,Canada,N64,Yes
+471,Unspecified,7341,Unspecified,Unspecified,EMU,No
+472,07/29/2023,7342,W1cko,Australia,N64,Yes
+473,10/21/2021,7361,Stomr,United States,N64,Yes
+474,04/16/2023,7367,Collin_1029,United States,N64,Yes
+475,02/19/2021,7372,A.R.,United States,N64,Yes
+476,07/27/2023,7377,kelsmont,Unspecified,N64,Yes
+477,06/14/2023,7382,Domcactus,Canada,EMU,Yes
+478,02/03/2023,7385,Rici64,Germany,VC,Yes
+479,07/08/2023,7394,Kasual,Canada,N64,Yes
+480,02/04/2023,7397,Limosick,Mexico,N64,Yes
+481,07/15/2023,7403,AbUnderscored,Jordan,EMU,Yes
+482,04/12/2023,7412,Rollerroc,England,VC,Yes
+482,06/11/2023,7412,wispx,United States,N64,No
+484,12/31/2017,7415,HowToCantaloupe,United States,VC,Yes
+485,06/10/2023,7419,Zeas44,United States,EMU,Yes
+486,12/05/2020,7429,Linkx2,Germany,N64,Yes
+487,12/17/2014,7431,TPositive,United States,VC,Yes
+488,06/16/2022,7444,NaturallyAllen,United States,EMU,Yes
+489,02/11/2019,7445,meowmix_fan,United States,VC,Yes
+489,03/17/2023,7445,Kosmic,United States,N64,Yes
+491,03/13/2023,7454,Freelatas,Spain,EMU,Yes
+492,07/08/2022,7463,agge40,Sweden,VC,Yes
+493,06/06/2022,7468,BizzareScape,Mexico,N64,Yes
+494,07/14/2022,7470,StepGamer,Italy,EMU,Yes
+495,Unspecified,7471,cwolf20,United States,EMU,No
+496,08/09/2022,7473,daiden,Canada,N64,Yes
+497,07/31/2023,7474,disa,France,EMU,Yes
+498,07/31/2022,7475,Malkierian,United States,EMU,Yes
+499,04/28/2022,7477,GeoGringo,United States,N64,Yes
+500,12/24/2019,7478,SkylarFerret,United States,N64,Yes
